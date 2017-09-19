@@ -7,14 +7,11 @@
     "node": ">=4.0"
   },
   "author": "Harshad Pandit",
-  "dependencies": {},
-  "devDependencies": {
-    "eslint": "^3.11.1",
-    "eslint-config-airbnb-base": "^11.2.0",
-    "eslint-plugin-html": "^1.7.0",
-    "json-server": "^0.8.17",
-    "polylint": "^2.10.1",
-    "polyserve": "^0.19.1",
+  "dependencies": {
     "lit-html": "^0.6.0"
+  },
+  "devDependencies": {
+    "lit-html": "^0.6.0",
+    "babel-core": "^6.26.0"
   }
 }
