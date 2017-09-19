@@ -2,6 +2,7 @@
   "name": "lit-html-demos",
   "version": "0.0.1",
   "description": "A demo app for learning lit-html",
+  "main": "lit-html-demo.html",
   "engines": {
     "node": ">=4.0"
   },
@@ -11,11 +12,9 @@
     "eslint": "^3.11.1",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-html": "^1.7.0",
-    "husky": "^0.11.9",
     "json-server": "^0.8.17",
     "polylint": "^2.10.1",
     "polyserve": "^0.19.1",
-    "url": "^0.11.0",
     "lit-html": "^0.6.0"
   }
 }
