@@ -8,10 +8,10 @@
   },
   "author": "Harshad Pandit",
   "dependencies": {
+    "image-promise": "^5.0.1",
     "lit-html": "^0.6.0"
   },
   "devDependencies": {
-    "lit-html": "^0.6.0",
-    "babel-core": "^6.26.0"
+    "lit-html": "^0.6.0"
   }
 }
